@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kzmfhm
-- 👀 I’m interested in Python, Pandas, Numpy and more
+- 👀 I’m interested in Python, Typescript,javascript,django,react and more
 - 🌱 I’m currently learning Python, React and Typescript.
 
 <!---
